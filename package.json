@@ -211,6 +211,9 @@
     "@rollup/rollup-linux-x64-gnu": "^4.17.1"
   },
   "dependencies": {
+    "@google-labs/breadboard": "^0.20.0",
+    "@google-labs/breadboard-cli": "^0.9.3",
+    "@google-labs/core-kit": "^0.9.0",
     "litegraph.js": "^0.7.18",
     "prettier": "^3.3.2"
   },
